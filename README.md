@@ -1,4 +1,6 @@
-<img src="public/axe_logo_dark_square.png" alt="aXe Logo" width="200">
+<p align="center">
+  <img src="public/axe_logo_dark_square.png" alt="aXe Logo" width="200">
+</p>
 
 # aXe — XBOW Benchmark Results
 
@@ -67,8 +69,10 @@ benchmark_results/
 
 > aXe by In The Forest.
 
-<img src="public/itf-logo-white.png" alt="ITF Logo" width="300">
+<p align="center">
+  <img src="public/itf_logo_white.png" alt="ITF Logo" width="300">
+</p>
 
 2026 In The Forest. All rights reserved.
 
-Get in touch with us via this repository or by emailing wj\[dot\]lee\[at\]itforest\[dot\]net
+Get in touch with us via this repository or by emailing wj\[dot\]lee\[at\]itforest\[dot\]net.
