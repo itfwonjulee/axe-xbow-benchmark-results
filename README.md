@@ -61,6 +61,12 @@ benchmark_results/
 └── total_metrics.json           # Aggregated metrics (overall + per-level)
 ```
 
+---
+
 > aXe by In The Forest.
 
-![ITF Logo](public/itf-logo.png)
+![ITF Logo](public/itf-logo-white.png)
+
+2026 In The Forest. All rights reserved.
+
+Get in touch with us via this repository or by emailing wj\[dot\]lee\[at\]itforest\[dot\]net
