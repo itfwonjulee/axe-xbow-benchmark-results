@@ -1,3 +1,5 @@
+<img src="public/axe_logo_dark_square.png" alt="aXe Logo" width="200">
+
 # aXe — XBOW Benchmark Results
 
 **aXe** achieved a **94.23% pass@1** solve rate on the CTF-style [XBOW Validation Benchmarks](https://github.com/xbow-engineering/validation-benchmarks) (104 challenges), with a best-case rate of **96.15%** after rerunning initially failed benchmarks.
@@ -65,7 +67,7 @@ benchmark_results/
 
 > aXe by In The Forest.
 
-![ITF Logo](public/itf-logo-white.png)
+<img src="public/itf-logo-white.png" alt="ITF Logo" width="300">
 
 2026 In The Forest. All rights reserved.
 
