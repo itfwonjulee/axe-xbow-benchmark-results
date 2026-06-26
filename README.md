@@ -73,6 +73,6 @@ benchmark_results/
   <img src="public/itf_logo_white.png" alt="ITF Logo" width="300">
 </p>
 
-2026 In The Forest. All rights reserved.
+© 2026 In The Forest. All rights reserved.
 
 Get in touch with us via this repository or by emailing wj\[dot\]lee\[at\]itforest\[dot\]net.
