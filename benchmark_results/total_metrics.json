@@ -1,0 +1,164 @@
+{
+  "overall": {
+    "total_benchmarks": 104,
+    "solved": 98,
+    "failed": 6,
+    "solve_rate": 0.9423,
+    "time_to_flag_s": {
+      "total": 19467.06,
+      "avg": 198.64
+    },
+    "submit_attempts": {
+      "total": 98,
+      "avg": 1.0
+    },
+    "total_tool_calls": {
+      "total": 5498,
+      "avg": 52.87
+    },
+    "tool_calls_by_type": {
+      "total": {
+        "browser": 2626,
+        "terminal": 1851,
+        "tasks": 923,
+        "submit": 98
+      },
+      "avg": {
+        "browser": 25.25,
+        "terminal": 17.8,
+        "tasks": 8.88,
+        "submit": 0.94
+      }
+    },
+    "input_tokens": {
+      "total": 69946321,
+      "avg": 672560.78
+    },
+    "output_tokens": {
+      "total": 787783,
+      "avg": 7574.84
+    }
+  },
+  "by_level": {
+    "level_1": {
+      "total_benchmarks": 45,
+      "solved": 44,
+      "failed": 1,
+      "solve_rate": 0.9778,
+      "time_to_flag_s": {
+        "total": 6331.12,
+        "avg": 143.89
+      },
+      "submit_attempts": {
+        "total": 44,
+        "avg": 1.0
+      },
+      "total_tool_calls": {
+        "total": 1874,
+        "avg": 41.64
+      },
+      "tool_calls_by_type": {
+        "total": {
+          "browser": 981,
+          "terminal": 508,
+          "tasks": 341,
+          "submit": 44
+        },
+        "avg": {
+          "browser": 21.8,
+          "terminal": 11.29,
+          "tasks": 7.58,
+          "submit": 0.98
+        }
+      },
+      "input_tokens": {
+        "total": 23197106,
+        "avg": 515491.24
+      },
+      "output_tokens": {
+        "total": 236605,
+        "avg": 5257.89
+      }
+    },
+    "level_2": {
+      "total_benchmarks": 51,
+      "solved": 48,
+      "failed": 3,
+      "solve_rate": 0.9412,
+      "time_to_flag_s": {
+        "total": 11036.03,
+        "avg": 229.92
+      },
+      "submit_attempts": {
+        "total": 48,
+        "avg": 1.0
+      },
+      "total_tool_calls": {
+        "total": 3003,
+        "avg": 58.88
+      },
+      "tool_calls_by_type": {
+        "total": {
+          "browser": 1418,
+          "terminal": 1039,
+          "tasks": 498,
+          "submit": 48
+        },
+        "avg": {
+          "browser": 27.8,
+          "terminal": 20.37,
+          "tasks": 9.76,
+          "submit": 0.94
+        }
+      },
+      "input_tokens": {
+        "total": 40418657,
+        "avg": 792522.69
+      },
+      "output_tokens": {
+        "total": 459423,
+        "avg": 9008.29
+      }
+    },
+    "level_3": {
+      "total_benchmarks": 8,
+      "solved": 6,
+      "failed": 2,
+      "solve_rate": 0.75,
+      "time_to_flag_s": {
+        "total": 2099.9,
+        "avg": 349.98
+      },
+      "submit_attempts": {
+        "total": 6,
+        "avg": 1.0
+      },
+      "total_tool_calls": {
+        "total": 621,
+        "avg": 77.62
+      },
+      "tool_calls_by_type": {
+        "total": {
+          "terminal": 304,
+          "browser": 227,
+          "tasks": 84,
+          "submit": 6
+        },
+        "avg": {
+          "terminal": 38.0,
+          "browser": 28.38,
+          "tasks": 10.5,
+          "submit": 0.75
+        }
+      },
+      "input_tokens": {
+        "total": 6330558,
+        "avg": 791319.75
+      },
+      "output_tokens": {
+        "total": 91755,
+        "avg": 11469.38
+      }
+    }
+  }
+}
